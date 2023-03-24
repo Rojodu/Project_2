@@ -20,6 +20,7 @@ CREATE TABLE category (
 );
 
 
+
 CREATE TABLE campaign ( 
 	cf_id INT PRIMARY KEY,
 	contact_id INT REFERENCES Contacts.contact_id
@@ -35,3 +36,5 @@ CREATE TABLE campaign (
 	end_date DATE
 	category_id VARCHAR(50) REFERENCES Category.category_id
 	subcategory_id VARCHAR(50) REFERENCES Subcategory.subcategory_id
+);
+
