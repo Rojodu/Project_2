@@ -1,4 +1,4 @@
-# Project_2
+#  ETL Project_2
 
 This is the README for Group 3 ETL Mini Project. Group 3 consist of Robert Dupont, Enrique Garcia, Sierra Morgan, & Logan Woodul. 
 
