@@ -12,5 +12,5 @@ The fourth task was to create a ERD sketch using QuickDBD for the four csv files
 
 Once we had the sketch we could do the final task which was to create the databases. Using pgAdmin we created the Postgres file named crowdfunding_db_schema.sql and the Postgres database. Using the schema we created the four tables (campaign_table.sql, category_table.sql, contacts_table.sql, & subcategory_table.sql).
 
-That was all that was required for ETL Project Two.
+That was all that was required for ETL Project Two.\n
 We hope you enjoyed it as much as we do.
